@@ -11,6 +11,8 @@
     <modules>
         <module>CommandDesignPattern</module>
         <module>ObserverDesignPattern</module>
+        <module>untitled</module>
+        <module>DecoratorDesignPattern</module>
     </modules>
 
     <properties>
